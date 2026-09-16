@@ -1,0 +1,17 @@
+# Données non redistribuables
+vidal/
+corpus-medical*
+*.htm
+
+# Fichiers produits
+*.dic
+*.bin
+*.inf
+*.fst2
+*.snt
+*_snt/
+infos*.txt
+info3.txt
+concord.html
+extraction.db
+__pycache__/
