@@ -56,4 +56,4 @@ Code distribué sous [licence MIT](LICENSE).
 
 ## Auteurs
 
-**Amar Merabti** et **Mehdi Meziani** — Licence 3 informatique, USTHB.
+**Amar Merabti** — Licence 3 informatique, USTHB.
